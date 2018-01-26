@@ -6,3 +6,4 @@
 #### Viola Jones Face Detection  [[pdf](https://www2.units.it/carrato/didatt/EI_web/slides/ti/72_ViolaJones.pdf), [pdf](https://www.cs.ubc.ca/~lowe/425/slides/13-ViolaJones.pdf)]
 #### Box Blur - [website](http://amritamaz.net/blog/understanding-box-blur)
 #### Laplacian of Gaussian (LOG) - [pdf](http://www.cse.psu.edu/~rtc12/CSE486/lecture11_6pp.pdf)
+#### Median Blur - [pdf](https://www.cs.auckland.ac.nz/courses/compsci373s1c/PatricesLectures/Image%20Filtering_2up.pdf)
