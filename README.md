@@ -9,4 +9,4 @@
 #### Median Blur - [pdf](https://www.cs.auckland.ac.nz/courses/compsci373s1c/PatricesLectures/Image%20Filtering_2up.pdf)
 
 ## NOTE
-Replaced matplotlib inline plotting with IPython's inline display
+Replaced matplotlib inline plotting with IPython's inline display.
