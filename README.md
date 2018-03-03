@@ -1,5 +1,6 @@
 # Computer-Vision
 
+#### Rudin–Osher–Fatemi Total Variation Denoising using Split Bregman - [pdf](http://www.ipol.im/pub/art/2012/g-tvd/article_lr.pdf)
 #### GENERALIZING THE HOUGH TRANSFORM TO DETECT ARBITRARY SHAPES - [pdf](https://pdfs.semanticscholar.org/2c8c/97918a24c26da7c949a7d6aaf3201d9d9cf9.pdf)
 #### Circle Detection Using Hough Transforms Documentation - [pdf](https://www.borovicka.org/files/research/bristol/hough-report.pdf)
 #### Hough Line Transform - [pdf](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/HoughTrans_lines_09.pdf)
