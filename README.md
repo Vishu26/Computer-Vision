@@ -2,6 +2,7 @@
 
 #### Rudin–Osher–Fatemi Total Variation Denoising using Split Bregman - [pdf](http://www.ipol.im/pub/art/2012/g-tvd/article_lr.pdf)
 #### Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising - [pdf](https://www4.comp.polyu.edu.hk/~cslzhang/paper/DnCNN.pdf)
+#### Histogram of Oriented Gradients - [pdf](https://web.stanford.edu/class/cs231a/sessions/session6_problem_set_3.pdf)
 #### Analysis of Image Denoising Methods - [pdf](http://www.bioen.utah.edu/wiki/images/8/86/Miaomiao_ZHANG_Report.pdf)
 #### Fourier Transform - [pdf](https://www.cs.unm.edu/~brayer/vision/fourier.html)
 #### Histogram Equalization - [pdf](https://www.asee.org/documents/sections/middle-atlantic/spring-2010/Implementing-a-Histogram-Equalization-Algorithm.pdf)
